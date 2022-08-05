@@ -9,12 +9,16 @@
     "@testing-library/user-event": "^13.5.0",
     "eslint": "^8.20.0",
     "eslint-plugin-react": "^7.30.1",
+    "gh-pages": "^4.0.0",
+    "node-sass": "^7.0.1",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.4.0",
     "react-scripts": "5.0.1",
+    "rsuite": "^5.16.4",
     "sass": "^1.54.0",
+    "styled-components": "^5.3.5",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
